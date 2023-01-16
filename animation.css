@@ -1,0 +1,12 @@
+#carrousel{
+    width: 800px;
+    height: 400px;
+}
+.dos{
+    width: 290%;
+    display: none;
+}
+.ski{
+    width: 150%;
+    margin-left: 0%;
+}
